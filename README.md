@@ -14,19 +14,18 @@ A responsive and interactive web-based landing page for **Asphalt 9** racing gam
 
 ## 📂 Project Structure
 
-📦 Asphalt9-Web-Project
-┣ 📂 assets
-┃ ┣ 📂 images
-┃ ┣ 📂 videos
-┃ ┣ 📂 css
-┃ ┗ 📂 js
-┣ 📄 index.html
-┣ 📄 product.html
-┣ 📄 news.html
-┣ 📄 event.html
-┣ 📄 subscribe.html
-┗ 📄 README.md
-
+- `Asphalt9-Web-Project/`
+  - `assets/`
+    - `images/`
+    - `videos/`
+    - `css/`
+    - `js/`
+  - `index.html`
+  - `product.html`
+  - `news.html`
+  - `event.html`
+  - `subscribe.html`
+  - `README.md`
 
 ## 💻 Technologies Used
 
@@ -47,10 +46,6 @@ This project enhanced my skills in:
 - **UI animation and interactive effects**
 - **Form validation techniques**
 - **End-to-end design to code implementation workflow**
-
-## 📸 Screenshots
-
-*(insert screenshots here if needed)*
 
 ## 📎 License
 
